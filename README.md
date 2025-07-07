@@ -36,7 +36,7 @@ A real-time dynamic pricing dashboard that adjusts parking lot prices using occu
 ├── 📁 assets/
 │   └── architecture_diagram.png
 ├── README.md
-└── requirements.txt
+
 ```
 
 ---
