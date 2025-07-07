@@ -104,8 +104,8 @@ It contains price records for **every parking lot (SystemCodeNumber)** under all
 
 ## 👤 Submitted By
 
-**Name**: *Your Name*  
-**GitHub**: [https://github.com/your-username](https://github.com/your-username)  
+**Name**: *Swapnil Dave*  
+**GitHub**: [https://github.com/Swapnil625](https://github.com/Swapnil625)  
 **Program**: Summer Analytics 2025 – Final Submission
 
 
