@@ -18,7 +18,7 @@ A real-time dynamic pricing dashboard that adjusts parking lot prices using occu
 
 ##  Architecture Diagram
 
-![Architecture Diagram](assets/architecture_diagram.png)
+![Architecture Diagram](asset/architecture_diagram.png)
 
 ---
 
